@@ -1,0 +1,14 @@
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T19-c-sharp-basics-08-2023\T19-C-Sharp-Basics\T19-C-Sharp-Basics\obj\Debug\net6.0\T19-C-Sharp-Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T19-c-sharp-basics-08-2023\T19-C-Sharp-Basics\T19-C-Sharp-Basics\obj\Debug\net6.0\T19-C-Sharp-Basics.AssemblyInfoInputs.cache
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T19-c-sharp-basics-08-2023\T19-C-Sharp-Basics\T19-C-Sharp-Basics\obj\Debug\net6.0\T19-C-Sharp-Basics.AssemblyInfo.cs
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T19-c-sharp-basics-08-2023\T19-C-Sharp-Basics\T19-C-Sharp-Basics\obj\Debug\net6.0\T19-C-Sharp-Basics.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T19-c-sharp-basics-08-2023\T19-C-Sharp-Basics\T19-C-Sharp-Basics\bin\Debug\net6.0\T19-C-Sharp-Basics.exe
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T19-c-sharp-basics-08-2023\T19-C-Sharp-Basics\T19-C-Sharp-Basics\bin\Debug\net6.0\T19-C-Sharp-Basics.deps.json
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T19-c-sharp-basics-08-2023\T19-C-Sharp-Basics\T19-C-Sharp-Basics\bin\Debug\net6.0\T19-C-Sharp-Basics.runtimeconfig.json
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T19-c-sharp-basics-08-2023\T19-C-Sharp-Basics\T19-C-Sharp-Basics\bin\Debug\net6.0\T19-C-Sharp-Basics.dll
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T19-c-sharp-basics-08-2023\T19-C-Sharp-Basics\T19-C-Sharp-Basics\bin\Debug\net6.0\T19-C-Sharp-Basics.pdb
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T19-c-sharp-basics-08-2023\T19-C-Sharp-Basics\T19-C-Sharp-Basics\obj\Debug\net6.0\T19-C-Sharp-Basics.dll
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T19-c-sharp-basics-08-2023\T19-C-Sharp-Basics\T19-C-Sharp-Basics\obj\Debug\net6.0\refint\T19-C-Sharp-Basics.dll
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T19-c-sharp-basics-08-2023\T19-C-Sharp-Basics\T19-C-Sharp-Basics\obj\Debug\net6.0\T19-C-Sharp-Basics.pdb
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T19-c-sharp-basics-08-2023\T19-C-Sharp-Basics\T19-C-Sharp-Basics\obj\Debug\net6.0\T19-C-Sharp-Basics.genruntimeconfig.cache
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T19-c-sharp-basics-08-2023\T19-C-Sharp-Basics\T19-C-Sharp-Basics\obj\Debug\net6.0\ref\T19-C-Sharp-Basics.dll
