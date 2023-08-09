@@ -26,7 +26,19 @@ namespace T19_C_Sharp_Basics
 
             Console.ReadLine();
 
+            Console.WriteLine("---------------------------------------------");
+            Console.WriteLine("Iniciando Ejercicio 2");
+            Console.WriteLine("---------------------------------------------");
+            //Ejercicio1 2
+            Ejercicio2 ejercicio2 = new Ejercicio2();
+            ejercicio2.Info();
+            Console.WriteLine("----------------");
 
+            ejercicio2.Suma();
+            ejercicio2.Diferencia();
+            ejercicio2.valorNumerico();
+
+            Console.ReadLine();
         }
     }
     
