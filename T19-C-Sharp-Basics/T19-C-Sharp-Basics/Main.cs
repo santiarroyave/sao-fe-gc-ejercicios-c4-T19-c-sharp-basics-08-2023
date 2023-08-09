@@ -39,6 +39,18 @@ namespace T19_C_Sharp_Basics
             ejercicio2.valorNumerico();
 
             Console.ReadLine();
+
+            Console.WriteLine("---------------------------------------------");
+            Console.WriteLine("Iniciando Ejercicio 3");
+            Console.WriteLine("---------------------------------------------");
+            //Ejercicio1 2
+            Ejercicio3 ejercicio3 = new Ejercicio3();
+            ejercicio3.Info();
+            Console.WriteLine("----------------");
+
+            ejercicio3.Operaciones();
+
+            Console.ReadLine();
         }
     }
     
