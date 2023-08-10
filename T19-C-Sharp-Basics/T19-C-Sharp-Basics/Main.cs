@@ -43,12 +43,24 @@ namespace T19_C_Sharp_Basics
             Console.WriteLine("---------------------------------------------");
             Console.WriteLine("Iniciando Ejercicio 3");
             Console.WriteLine("---------------------------------------------");
-            //Ejercicio1 2
+            //Ejercicio1 3
             Ejercicio3 ejercicio3 = new Ejercicio3();
             ejercicio3.Info();
             Console.WriteLine("----------------");
 
             ejercicio3.Operaciones();
+
+            Console.ReadLine();
+
+            Console.WriteLine("---------------------------------------------");
+            Console.WriteLine("Iniciando Ejercicio 4");
+            Console.WriteLine("---------------------------------------------");
+            //Ejercicio1 4
+            Ejercicio4 ejercicio4 = new Ejercicio4();
+            ejercicio4.Info();
+            Console.WriteLine("----------------");
+
+            ejercicio4.Operaciones();
 
             Console.ReadLine();
         }
